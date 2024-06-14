@@ -1,0 +1,227 @@
+{
+  "mainCourse": [
+    {
+      "id": 1,
+      "img": "./images/img1.png",
+      "nom": "Chicken Orido",
+      "price": 65.99
+    },
+    {
+      "id": 2,
+      "img": "./images/img2.png",
+      "nom": "Steak Frite",
+      "price": 59.49
+    },
+    {
+      "id": 3,
+      "img": "./images/poulet1.png",
+      "nom": "Poulet Rôti au Citron et Romarin",
+      "price": 74.3
+    },
+    {
+      "id": 4,
+      "img": "./images/curry.png",
+      "nom": "Curry de Poulet à la Noix de Coco",
+      "price": 44.65
+    },
+    {
+      "id": 5,
+      "img": "./images/taglia.png",
+      "nom": "Tagliatelles aux Truffes et Champignons",
+      "price": 35.86
+    },
+    {
+      "id": 6,
+      "img": "./images/boeuf.png",
+      "nom": "Bœuf Bourguignon",
+      "price": 53.19
+    },
+    {
+      "id": 16,
+      "img": "./images/lasa.png",
+      "nom": "Lasagne Vegetarienne",
+      "price": 23.50
+    },
+    {
+      "id": 17,
+      "img": "./images/CouscousRoyale.png",
+      "nom": "Couscous Royal",
+      "price": 23.50
+    },
+    {
+      "id": 18,
+      "img": "./images/saumon.png",
+      "nom": "Darne de saumon avec crème sure",
+      "price": 23.50
+    }
+  ],
+  "beverage":
+  [
+    {
+       "id":7,
+       "img" :"./images/cerise.png",
+       "nom" :"Cheris Smoothie",
+       "price" : 11.4
+    },
+    {
+        "id":8,
+        "img" :"./images/citron.png",
+        "nom" :"Lemon Smoothie",
+        "price" :8.99
+     },
+     {
+        "id":9,
+        "img" :"./images/fraise.png",
+        "nom" :"Strawberry Smoothie",
+        "price" :12.65
+     },
+     {
+        "id":10,
+        "img" :"./images/avocat.png",
+        "nom" :"Avocado Smoothie",
+        "price" :10.45
+     },
+     {
+        "id":11,
+        "img" :"./images/mangue.png",
+        "nom" :"Mango Smoothie",
+        "price" :12.99
+     },
+     {
+        "id":12,
+        "img" :"./images/pasteque.png",
+        "nom" :"Waermelon Smoothie",
+        "price" :7.45
+     },
+     {
+        "id":13,
+        "img" :"./images/peche.png",
+        "nom" :"Peach Smoothie",
+        "price" :10.45
+     },
+     {
+        "id":14,
+        "img" :"./images/kiwi.png",
+        "nom" :"Kiwi Smoothie",
+        "price" :12.99
+     },
+     {
+        "id":15,
+        "img" :"./images/mirtille.png",
+        "nom" :"Blueberry Smoothie",
+        "price" :7.45
+     }
+  ],
+  "desserts": [
+   {
+     "id": 19,
+     "img": "./images/Tiramisu.png",
+     "nom": "Tiramisu",
+     "price": 25.98
+   },
+   {
+     "id": 20,
+     "img": "./images/Tarte_Tatin_aux_Pommes-removebg-preview.png",
+     "nom": "Tarte Tatin aux Pommes",
+     "price": 59.43
+   },
+   {
+     "id": 21,
+     "img": "./images/Cheesecake_aux_Fruits_Rouge-removebg-preview.png",
+     "nom": "Cheesecake aux Fruits Rouge",
+     "price": 14.23
+   },
+   {
+     "id": 22,
+     "img": "./images/Moelleux_au_Chocolat.png",
+     "nom": "Moelleux au Chocolat",
+     "price": 14.65
+   },
+   {
+     "id": 23,
+     "img": "./images/macaronVarié.png",
+     "nom": "Macarons Variés",
+     "price": 32.86
+   },
+   {
+     "id": 24,
+     "img": "./images/Panna Cotta à la Vanille.png",
+     "nom": "Panna Cotta à la Vanille",
+     "price": 47.19
+   },
+   {
+     "id": 25,
+     "img": "./images/éclaireAuCafé.png",
+     "nom": "Éclaire Au Café",
+     "price": 23.50
+   },
+   {
+     "id": 26,
+     "img": "./images/2.png",
+     "nom": "Brownies aux Noix",
+     "price": 34.15
+   },
+   {
+     "id": 27,
+     "img": "./images/Crème_Brûlée.png",
+     "nom": "Crème Brûlée",
+     "price": 18.67
+   }
+ ],
+ "entrances": [
+  {
+    "id": 28,
+    "img": "./images/Salade César.png",
+    "nom": "Salade César",
+    "price": 37.98
+  },
+  {
+    "id": 29,
+    "img": "./images/Vélouté de Potimarron.png",
+    "nom": "Velouté de Potimarron",
+    "price": 12.43
+  },
+  {
+    "id": 30,
+    "img": "./images/Carpaccio de Bœuf.png",
+    "nom": "Carpaccio de Bœuf",
+    "price": 14.23
+  },
+  {
+    "id": 31,
+    "img": "./images/Soupe à l'Oignon Gratinée.png",
+    "nom": "Soupe à l'Oignon Gratinée",
+    "price": 14.65
+  },
+  {
+    "id": 32,
+    "img": "./images/Salade de Quinoa et Avocat.png",
+    "nom": "Salade de Quinoa et Avocat",
+    "price": 32.86
+  },
+  {
+    "id": 33,
+    "img": "./images/Tartare De Saumon.png",
+    "nom": "Tartare De Saumon",
+    "price": 41.99
+  },
+  {
+    "id": 34,
+    "img": "./images/Croquettes De Morue.png",
+    "nom": "Croquettes De Morue",
+    "price": 28.73
+  },
+  {
+    "id": 35,
+    "img": "./images/Raviolis Ricotta et Épinards.png",
+    "nom": "Raviolis Ricotta et Épinards",
+    "price": 64.35
+  },
+  {
+    "id": 36,
+    "img": "./images/Tomate.png",
+    "nom": "Tomates Farcies",
+    "price": 28.47
+  }
+]
+}
